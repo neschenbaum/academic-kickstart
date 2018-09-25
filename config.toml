@@ -9,13 +9,13 @@
 baseurl = "https://neschenbaum.github.io"
 
 # Title of your site
-title = "Academic"
+title = "Nicolas Eschenbaum"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "Nicolas Eschenbaum &copy; 2018"
 
-theme = "Nicolas Eschenbaum"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -66,8 +66,8 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "nicolas.eschenbaum@gmail.com"
-  address = "Office-Nr 34-310, Varnbüelstrasse 19, University of St. Gallen, St. Gallen, 90000, Switzerland"
+  email = "nicolas.eschenbaum@unisg.ch"
+  address = "Office-Nr 34-310, Varnbüelstrasse 19, University of St. Gallen, St. Gallen, 9000, Switzerland"
   office_hours = "Tuesday 14:00 to 15:00 (email for appointment)"
   phone = "+41 (0)71 224 3088"
   skype = ""

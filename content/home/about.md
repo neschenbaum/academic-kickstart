@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Industrial Organization",
+    "Digital Markets",
+    "Applied Econometrics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Economics"
+  institution = "University of St. Gallen"
+  year = 2018
+
+[[education.courses]]
+  course = "MSc in Economics"
+  institution = "Edinburgh University"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Business and Economics"
+  institution = "Maastricht University"
+  year = 2011
  
 +++
 
-# Biography
+# Welcome
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher at the University of St. Gallen. My research interests include industrial organization, competition policy, digital markets, applied econometrics, and machine learning. I am currently employed on funding obtained via the SNF research project "Pricing in a Digital World" that was jointly proposed with Prof. Stefan Buehler (University of St. Gallen), Prof. Thomas Epper (University of St. Gallen), and Prof. Daniel Halbheer (HEC Paris).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
