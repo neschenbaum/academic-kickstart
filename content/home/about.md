@@ -35,5 +35,5 @@ weight = 5
 
 # Welcome
 
-I am a postdoctoral researcher at the University of St. Gallen. My research interests include industrial organization, competition policy, digital markets, applied econometrics, and machine learning. I am currently employed on funding obtained via the SNF research project "Pricing in a Digital World" that was jointly proposed with Prof. Stefan Buehler (University of St. Gallen), Prof. Thomas Epper (University of St. Gallen), and Prof. Daniel Halbheer (HEC Paris).
+I am a postdoctoral researcher at the University of St. Gallen. My research interests include industrial organization, competition policy, digital markets, applied econometrics, and machine learning. I am currently employed on funding obtained via the SNF research project "Pricing in a Digital World" that was proposed together with Prof. Stefan Buehler (University of St. Gallen). Prof. Thomas Epper (University of St. Gallen) and Prof. Daniel Halbheer (HEC Paris) are further project partners.
 
