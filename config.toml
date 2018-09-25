@@ -50,11 +50,11 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "newtheme"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "newfont"
 
   # Your details.
   name = "Nicolas Eschenbaum"
@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "University of St. Gallen", url = "www.fgn.unisg.ch" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "foto.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nicolas.eschenbaum@unisg.ch"
   address = "Office-Nr 34-310, Varnbüelstrasse 19, University of St. Gallen, St. Gallen, 9000, Switzerland"
   office_hours = "Tuesday 14:00 to 15:00 (email for appointment)"
