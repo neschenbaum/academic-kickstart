@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This paper develops a simple two-period model of behavior-based price discrimination that nests optimal law enforcement with uncertain detection and monopoly pricing with imperfect customer recognition and studies how escalating fine (pricing) schemes may emerge. We show that, in a fixed environment, escalating fines (prices) for repeat offenders (consumers) are driven by the enforcement authority’s (seller’s) incentive to reduce the fine (price) for low-value offenders (consumers) rather than the incentive to increase the fine (price) for repeat offenders (consumers). Our analysis provides a novel explanation for escalating fines if consumer gains are not fully credited to social welfare."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)

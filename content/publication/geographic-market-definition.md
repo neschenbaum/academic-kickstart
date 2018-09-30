@@ -1,5 +1,5 @@
 +++
-title = "Geographic Market Definition"
+title = "Geographic Market Definition in Swiss Grocery Retailing: A Non-Parametric Approach"
 date = 2018-09-25T20:13:42+02:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["Nicolas Eschenbaum"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Geographic Market Definition in Swiss Grocery Retailing: A Non-Parametric Approach"
+publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

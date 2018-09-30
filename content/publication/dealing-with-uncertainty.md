@@ -1,5 +1,5 @@
 +++
-title = "Dealing With Uncertainty"
+title = "Dealing with Uncertainty: Seller Reputation in the Online Market for Illegal Drugs"
 date = 2018-09-25T20:13:57+02:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["Nicolas Eschenbaum","Helge Liebert"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Dealing with Uncertainty: Seller Reputation in the Online Market for Illegal Drugs"
+publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
