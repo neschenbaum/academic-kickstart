@@ -281,7 +281,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Teaching"
-  url = "/google99fe8e6eec9f6168.html"
+  url = "#teaching"
   weight = 3
 
 [[menu.main]]
