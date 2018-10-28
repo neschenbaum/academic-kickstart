@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Industrial Organization",
-    "Digital Markets",
+    "Online Markets",
     "Applied Econometrics"
   ]
 
@@ -35,5 +35,5 @@ weight = 5
 
 ## Welcome.
 
-I am a postdoctoral researcher at the University of St. Gallen. My research interests include industrial organization, competition policy, digital markets, applied econometrics, and machine learning. I am currently on a four-year research grant obtained via the SNF research project "Pricing in a Digital World" that was developed together with Prof. Stefan Buehler (University of St. Gallen). Prof. Thomas Epper (University of St. Gallen) and Prof. Daniel Halbheer (HEC Paris) are additional project partners.
+I am a postdoctoral researcher at the University of St. Gallen. My research interests include industrial organization, competition policy, online markets, applied econometrics, and machine learning. I am currently on a four-year research grant obtained via the SNF research project "Pricing in a Digital World" that was developed together with Prof. Stefan Buehler (University of St. Gallen). Prof. Thomas Epper (University of St. Gallen) and Prof. Daniel Halbheer (HEC Paris) are additional project partners.
 
