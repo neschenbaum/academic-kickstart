@@ -9,6 +9,8 @@ highlight = false
 #   1 = Detailed
 list_format = 0
 
+{{< ref "google99fe8e6eec9f6168.html" >}}
+
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
