@@ -1,5 +1,5 @@
 +++
-title = "Escalating Fines and Prices: The Curse of Positive Selection"
+title = "Explaining Escalating Fines and Prices: The Curse of Positive Selection"
 date = 2018-09-25T15:58:24+02:00
 draft = false
 

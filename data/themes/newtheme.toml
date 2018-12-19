@@ -5,9 +5,9 @@ name = "fliptheme"
 light = true
 
 # Primary
-primary = "#4caf50"
+primary = "#0069c0" <!-- #4caf50 original color -->
 primary_light = "#6ec6ff"
-primary_dark = "#0069c0"
+primary_dark = "#7ca2d5"
 
 # Menu
 menu_primary = "#333333"
