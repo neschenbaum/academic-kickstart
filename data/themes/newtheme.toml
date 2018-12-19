@@ -5,14 +5,14 @@ name = "fliptheme"
 light = true
 
 # Primary
-primary = "#0069c0" <!-- #4caf50 original color -->
+primary = "#7ca2d5"
 primary_light = "#6ec6ff"
-primary_dark = "#7ca2d5"
+primary_dark = "#0069c0"
 
 # Menu
 menu_primary = "#333333"
 menu_text = "#fff"
-menu_text_active = "#4caf50"
+menu_text_active = #7ca2d5"
 menu_title = "#fff"
 
 # Home sections
