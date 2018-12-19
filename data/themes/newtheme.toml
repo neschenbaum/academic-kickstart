@@ -1,18 +1,18 @@
 # Theme metadata
-name = "fliptheme"
+name = "mytheme"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#7ca2d5"
+primary = "#7c9bd5"
 primary_light = "#6ec6ff"
 primary_dark = "#0069c0"
 
 # Menu
 menu_primary = "#333333"
 menu_text = "#fff"
-menu_text_active = #7ca2d5"
+menu_text_active = "#7c9bd5"
 menu_title = "#fff"
 
 # Home sections
