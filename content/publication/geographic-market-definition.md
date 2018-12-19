@@ -1,5 +1,5 @@
 +++
-title = "Geographic Market Definition in Swiss Grocery Retailing: A Non-Parametric Approach"
+title = "Estimating Geographic Market Size Nonparametrically: An Application to Grocery Retailing"
 date = 2018-09-25T20:13:42+02:00
 draft = false
 
