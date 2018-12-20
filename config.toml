@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "University of St. Gallen", url = "https://www.fgn.unisg.ch" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "foto.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "foto.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nicolas.eschenbaum@unisg.ch"
   address = "Office-Nr 34-310, Varnbüelstrasse 19, University of St. Gallen, St. Gallen, 9000, Switzerland"
   office_hours = "Tuesday 14:00 to 15:00 (email for appointment)"
