@@ -1,5 +1,5 @@
 +++
-title = "Dealing with Uncertainty: Seller Reputation in the Online Market for Illegal Drugs"
+title = "Dealing with Uncertainty: The Value of Reputation in an Institutional Void"
 date = 2018-09-25T20:13:57+02:00
 draft = false
 
