@@ -10,9 +10,17 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Economics of Digitization",
     "Industrial Organization",
-    "Online Markets",
-    "Applied Econometrics"
+    "Competition Policy"
+  ]
+
+# List your qualifications (such as academic degrees).
+[[recent.projects]]
+  projects = [
+  "Dynamic Pricing with Multiple Varieties",
+  "Pricing in a Digital World",
+  "Dealing with Uncertainty"
   ]
 
  
@@ -20,5 +28,5 @@ weight = 5
 
 ## Biography
 
-I am a postdoctoral researcher at the University of St. Gallen. My research focuses on the economics of digitization, in particular the functioning of dynamic pricing and resulting competition policy concerns. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".
+I am a PostDoc at the University of St. Gallen. My research focuses on the economics of digitization, in particular the functioning of dynamic pricing and resulting competition policy concerns. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".
 
