@@ -1,7 +1,7 @@
 # Font style metadata
 name = "myfont"
 
- Optional Google font URL
+# Optional Google font URL
 google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono|Raleway|Lato|Titillium+Web|Nanum+Gothic|Inconsolata"
 
 # Font families
