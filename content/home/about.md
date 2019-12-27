@@ -16,7 +16,7 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[recent.projects]]
+[recent.projects]
   projects = [
   "Dynamic Pricing with Multiple Varieties",
   "Pricing in a Digital World",
