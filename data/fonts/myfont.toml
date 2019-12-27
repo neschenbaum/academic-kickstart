@@ -4,7 +4,7 @@ name = "myfont"
 # Font families
 heading_font = "PT Serif"
 body_font = "Raleway"
-nav_font = "PT Serif"
+nav_font = "Inconsolata"
 mono_font = "Roboto Mono"
 
 # Font size
