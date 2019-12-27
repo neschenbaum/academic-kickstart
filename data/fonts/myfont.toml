@@ -2,9 +2,9 @@
 name = "myfont"
 
 # Font families
-heading_font = "Inconsolata"
+heading_font = "Merriweather Sans"
 body_font = "Raleway"
-nav_font = "Inconsolata"
+nav_font = "Merriweather Sans"
 mono_font = "Roboto Mono"
 
 # Font size
