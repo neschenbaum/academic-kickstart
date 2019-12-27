@@ -2,8 +2,8 @@
 name = "myfont"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Raleway"
+heading_font = "Nanum Gothic"
+body_font = "Nanum Gothic"
 nav_font = "Nanum Gothic"
 mono_font = "Roboto Mono"
 
