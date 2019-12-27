@@ -2,11 +2,11 @@
 name = "myfont"
 
 # Font families
-heading_font = "Merriweather"
+heading_font = "Merriweather Serif"
 body_font = "Raleway"
 nav_font = "Raleway"
 mono_font = "Roboto Mono"
-
+	
 # Font size
 font_size = "18"
-font_size_small = "14"
+font_size_small = "16"
