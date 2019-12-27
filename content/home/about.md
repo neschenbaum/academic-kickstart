@@ -28,5 +28,5 @@ weight = 5
 
 ## Biography
 
-I am a Postdoc at the University of St. Gallen. My research focuses on industrial organization and the economics of digitization, in particular the functioning of dynamic pricing and related competition policy concerns. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".
+I am a postdoc at the University of St. Gallen. My research focuses on industrial organization and the economics of digitization, in particular the functioning of dynamic pricing and related competition policy concerns. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".
 
