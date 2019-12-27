@@ -5,11 +5,11 @@ name = "flipfont"
 google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono|Raleway|Lato|Titillium+Web"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Merriweather"
 body_font = "Raleway"
 nav_font = "Raleway"
 mono_font = "Roboto Mono"
 
 # Font size
-font_size = "16"
-font_size_small = "12"
+font_size = "18"
+font_size_small = "14"
