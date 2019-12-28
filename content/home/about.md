@@ -15,18 +15,9 @@ weight = 5
     "Competition Policy"
   ]
 
-# List your qualifications (such as academic degrees).
-[recent.projects]
-  projects = [
-  "Dynamic Pricing with Multiple Varieties",
-  "Pricing in a Digital World",
-  "Dealing with Uncertainty"
-  ]
 
  
 +++
 
-## Biography
-
-I am a postdoc at the University of St. Gallen. My research focuses on industrial organization and the economics of digitization, in particular the functioning of dynamic pricing and related competition policy concerns. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".
+I am a postdoc at the University of St. Gallen. I do research in industrial organization and the economics of digitization, in particular studying the principles and functioning of dynamic pricing and related competition policy concerns. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".
 
