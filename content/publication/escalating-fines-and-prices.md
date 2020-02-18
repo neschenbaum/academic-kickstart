@@ -1,6 +1,6 @@
 +++
 title = "Explaining Escalating Fines and Prices: A Unified Approach"
-date = 
+date = 2019-12-25T15:58:24+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -55,7 +55,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{name = "Article Link", url = "https://authors.elsevier.com/sd/article/S0167268120300093"}]
+ url_custom = [{name = "Article", url = "https://authors.elsevier.com/sd/article/S0167268120300093"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
