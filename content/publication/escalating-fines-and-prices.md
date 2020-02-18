@@ -1,6 +1,6 @@
 +++
 title = "Explaining Escalating Fines and Prices: The Curse of Positive Selection"
-date = 2018-09-25T15:58:24+02:00
+date = 2019-12-25T15:58:24+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,10 +15,10 @@ authors = ["Stefan Buehler","Nicolas Eschenbaum"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Journal of Economic Behavior and Organization, Volume 171, March 2020, Pages 153-164"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -55,7 +55,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ url_custom = [{name = "Article", url = "https://authors.elsevier.com/sd/article/S0167268120300093"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
