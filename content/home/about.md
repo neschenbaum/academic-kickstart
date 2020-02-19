@@ -1,16 +1,14 @@
 +++
-# About/Biography widget.
-widget = "about"
-active = true
-date = 2016-04-20T00:00:00
+# About widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear in.
 
-# Order that this section will appear in.
-weight = 5
+title = ""
 
-
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+author = "admin"
 +++
-
-<br/><br/>
-
-I am a postdoc at the University of St. Gallen. I do research in industrial organization and the economics of digitization, focusing in particular on the principles and functioning of dynamic pricing and related competition policy concerns. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".
-
