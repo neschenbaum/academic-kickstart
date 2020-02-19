@@ -5,15 +5,15 @@ name = "mytheme"
 light = true
 
 # Primary
-primary = "#7c9bd5"
-primary_light = "#6ec6ff"
-primary_dark = "#0069c0"
+primary = "rgb(124, 155, 213)"
+# primary_light = "rgb(110, 198, 255)"
+# primary_dark = "rgb(0, 105, 192)"
 
 # Menu
-menu_primary = "#474747"
-menu_text = "#fff"
-menu_text_active = "#7c9bd5"
-menu_title = "#fff"
+menu_primary = "rgb(71, 71, 71)"
+menu_text = "rgb(255, 255, 255)"
+menu_text_active = "rgb(124, 155, 213)"
+menu_title = "rgb(255, 255, 255)"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"

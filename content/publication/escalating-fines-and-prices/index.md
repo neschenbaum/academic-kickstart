@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Explaining Escalatig Fines and Prices: A Unified Approach"
-authors: ["Stefan Buehler","Nicolas Eschenbaum]
+authors: ["Stefan Buehler","Nicolas Eschenbaum"]
 date: 2020-02-19T14:32:05+01:00
 doi: ""
 
@@ -31,8 +31,8 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
- - name: Article
-   url: https://authors.elsevier.com/sd/article/S0167268120300093
+# - name: Article
+#   url: https://authors.elsevier.com/sd/article/S0167268120300093
 #   icon_pack: fab
 #   icon: twitter
 
