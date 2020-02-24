@@ -3,7 +3,7 @@
 
 title: "Dealing with Uncertainty: The Value of Reputation in an Institutional Void"
 authors: ["Nicolas Eschenbaum","Helge Liebert"]
-date: 2020-02-19T14:32:05+01:00
+date: 2019-02-19T14:32:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,7 +13,7 @@ publishDate: 2020-02-19T14:32:05+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""

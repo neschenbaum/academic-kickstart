@@ -15,7 +15,7 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: University of St. Gallen
-  url: "https://www.unisg.ch"
+  url: "https://www.fgn.unisg.ch"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a postdoc at the University of St. Gallen. I do research in industrial organization and the economics of digitization, focusing in particular on the principles and functioning of dynamic pricing and related competition policy concerns. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".
@@ -29,15 +29,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:nicolas.eschenbaum@unisg.ch'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#	- icon: twitter
+#	icon_pack: fab
+#	link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=8kot8ugAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/neschenbaum
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,4 +54,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc at the University of St. Gallen. I do research in industrial organization and the economics of digitization, focusing in particular on the principles and functioning of dynamic pricing and related competition policy concerns. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".
+<br> I am a postdoc at the University of St. Gallen. I do research in industrial organization and the economics of digitization, focusing in particular on the principles and functioning of dynamic pricing and related competition policy concerns. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".

@@ -3,7 +3,7 @@
 
 title: "Estimating Geographic Market Size Nonparametrically: An Application to Grocery Retailing"
 authors: ["Nicolas Eschenbaum"]
-date: 2020-02-19T14:32:05+01:00
+date: 2018-11-19T14:32:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

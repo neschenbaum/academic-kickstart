@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Explaining Escalatig Fines and Prices: A Unified Approach"
+title: "Explaining Escalating Fines and Prices: A Unified Approach"
 authors: ["Stefan Buehler","Nicolas Eschenbaum"]
 date: 2020-02-19T14:32:05+01:00
 doi: ""
@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Article
-#   url: https://authors.elsevier.com/sd/article/S0167268120300093
+#   url: "https://authors.elsevier.com/sd/article/S0167268120300093"
 #   icon_pack: fab
 #   icon: twitter
 
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://authors.elsevier.com/sd/article/S0167268120300093
 url_video:
 
 # Featured image
