@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Explaining Escalating Fines and Prices: A Unified Approach"
+title: "Explaining escalating prices and fines: A unified approach"
 authors: ["Stefan Buehler","Nicolas Eschenbaum"]
 date: 2020-02-19T14:32:05+01:00
 doi: ""
