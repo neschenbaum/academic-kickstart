@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dealing with Uncertainty: The Value of Reputation in an Institutional Void"
+title: "Dealing with Uncertainty: The Value of Reputation in the Absence of Legal Institutions"
 authors: ["Nicolas Eschenbaum","Helge Liebert"]
-date: 2019-02-19T14:32:05+01:00
+date: 2020-07-01T14:32:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
