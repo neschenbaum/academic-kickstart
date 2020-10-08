@@ -3,7 +3,7 @@
 
 title: "Algorithmic Collusion With Asymmetric Players"
 authors: ["Nicolas Eschenbaum","Philipp Zahn"]
-date: 2020-10-05T14:32:05+01:00
+date: 2020-10-01T14:32:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

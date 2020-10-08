@@ -3,11 +3,11 @@
 
 title: "Explaining escalating prices and fines: A unified approach"
 authors: ["Stefan Buehler","Nicolas Eschenbaum"]
-date: 2020-03-15T14:32:05+01:00
+date: 2020-10-04T14:32:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-01-01
+publishDate: 2020-03-01T14:32:05+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

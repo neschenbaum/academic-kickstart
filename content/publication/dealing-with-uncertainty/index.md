@@ -3,11 +3,11 @@
 
 title: "Dealing with Uncertainty: The Value of Reputation in the Absence of Legal Institutions"
 authors: ["Nicolas Eschenbaum","Helge Liebert"]
-date: 2020-07-01T14:32:05+01:00
+date: 2020-10-03T14:32:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-06T14:32:05+01:00
+publishDate: 2020-02-01T14:32:05+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
