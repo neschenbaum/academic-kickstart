@@ -3,11 +3,11 @@
 
 title: "Trading Up: Dynamic Monopoly Pricing With Multiple Varieties"
 authors: ["Stefan Buehler","Nicolas Eschenbaum","Marc Moeller"]
-date: 2020-02-19T14:32:05+01:00
+date: 2020-08-19T14:32:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-02-19T14:32:05+01:00
+publishDate: 2020-10-10T14:32:05+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
