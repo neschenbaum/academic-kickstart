@@ -3,7 +3,7 @@
 
 title: "Explaining escalating prices and fines: A unified approach"
 authors: ["Stefan Buehler","Nicolas Eschenbaum"]
-date: 2020-02-19T14:32:05+01:00
+date: 2020-10-19T14:32:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Journal of Economic Behavior and Organization, Volume 171, March 2020, Pages 153-164"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper provides an explanation for escalating prices and fines based on a unified analytical framework that nests monopoly pricing and optimal law enforcement. We show that escalation emerges as an optimal outcome if the principal (i) lacks commitment ability, and (ii) gives less than full weight to agent benefits. Escalation is driven by decreasing transfers for non-active agents rather than increasing transfers for active agents. Some forward-looking agents then strategically delay their activity, which drives a wedge between the optimal static transfer and the benefit of an indifferent agent. This wedge is the source of escalation."
 
 # Summary. An optional shortened abstract.
 summary: ""

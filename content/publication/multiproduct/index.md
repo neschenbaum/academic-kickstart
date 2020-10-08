@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Trading Up: Dynamic Pricing With Multiple Varieties"
+title: "Trading Up: Dynamic Monopoly Pricing With Multiple Varieties"
 authors: ["Stefan Buehler","Nicolas Eschenbaum","Marc Moeller"]
 date: 2020-02-19T14:32:05+01:00
 doi: ""
