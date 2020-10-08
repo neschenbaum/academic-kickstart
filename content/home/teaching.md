@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Industrial Organization and Digitalization (M.Sc.). Fall term 2019. 
+Industrial Organization and Digitalization (Master). Fall term 2020. 
 
-Microeconomics I (B.Sc., "Einführung in die Volkswirtschaftslehre Mikro&ouml;konomik I", in german). Fall term 2019.
+Microeconomics I (Bachelor.). Fall term 2020.
 
