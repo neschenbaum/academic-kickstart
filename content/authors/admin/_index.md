@@ -18,7 +18,7 @@ organizations:
   url: "www.fgn.unisg.ch"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoc at the University of St. Gallen and visiting scholar at the Düsseldorf Institute for Competition Economics. I do research in industrial organization and the economics of digitization, focusing in particular on the principles and functioning of dynamic pricing and related competition policy concerns. I am also interested in algorithmic pricing and the implications of automated decision making for market conduct and competition policy, as well as black market online platforms. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".
+bio: I am a postdoc at the University of St. Gallen. I do research in industrial organization and the economics of digitization. I am particularly interested in dynamic pricing, algorithmic pricing, black market online platforms, and generally competition policy concerns related to digitization. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World". Jointly with Philipp Zahn, I lead the research project "The Competitive Effects of Pricing Software Systems" that is funded by the University of St. Gallens Basic Research Fund.
 
 
 # Social/Academic Networking
@@ -57,4 +57,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc at the University of St. Gallen and visiting scholar at the Düsseldorf Institute for Competition Economics. I do research in industrial organization and the economics of digitization, focusing in particular on the principles and functioning of dynamic pricing and related competition policy concerns. I am also interested in algorithmic pricing and the implications of automated decision making for market conduct and competition policy, as well as black market online platforms. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World".
+I am a postdoc at the University of St. Gallen. I do research in industrial organization and the economics of digitization. I am particularly interested in dynamic pricing, algorithmic pricing, black market online platforms, and generally competition policy concerns related to digitization. I am currently on a four-year research grant obtained via the SNSF research project "Pricing in a Digital World". Jointly with Philipp Zahn, I lead the research project "The Competitive Effects of Pricing Software Systems" that is funded by the University of St. Gallens Basic Research Fund.
