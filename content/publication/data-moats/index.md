@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Data Moats"
-authors: []
-date: 2021-03-03T16:21:19+01:00
+title: "Data Moats and Pre-emptive Entry"
+authors: ["Nicolas Eschenbaum"]
+date: 2021-01-01T16:21:19+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

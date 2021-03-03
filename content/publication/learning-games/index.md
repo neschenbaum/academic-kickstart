@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Algorithmic Collusion And Asymmetric Agents"
+title: "Algorithmic Collusion and Asymmetric Agents"
 authors: ["Nicolas Eschenbaum","Philipp Zahn"]
-date: 2020-10-01T14:32:05+01:00
+date: 2021-01-01T14:32:05+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
