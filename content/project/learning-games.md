@@ -4,10 +4,10 @@
 title: "The Competitive Effects of Pricing Software Systems"
 subtitle: "The role of asymmetries between players"
 summary: "The increased use of pricing software by firms has gained the attention of policymakers and researchers. One major source of concern is that self-learning pricing algorithms may learn to collude without any explicit instruction to do so by the firm. Recent research indicates that these concerns are not unfounded. However, there is a large gap between how existing analyses are conducted and the actual, real-world implementation of pricing algorithms. The goal of our overall research is to close this gap. This project is the first step in this direction by investigating the role of asymmetry between players. This project has been funded by the University of St. Gallens Basic Research Fund."
-authors: [Nicolas Eschenbaum, Philipp Zahn]
+authors: ["Nicolas Eschenbaum", "Philipp Zahn"]
 tags: []
 categories: []
-date: 2021-03-03T15:31:49+01:00
+date: 2021-01-01T15:31:49+01:00
 lastmod: 2021-03-03T15:31:49+01:00
 featured: false
 draft: false
@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+The increased use of pricing software by firms has gained the attention of policymakers and researchers. One major source of concern is that self-learning pricing algorithms may learn to collude without any explicit instruction to do so by the firm. Recent research indicates that these concerns are not unfounded. However, there is a large gap between how existing analyses are conducted and the actual, real-world implementation of pricing algorithms. The goal of our overall research is to close this gap. This project is the first step in this direction by investigating the role of asymmetry between players. This project has been funded by the University of St. Gallens Basic Research Fund.

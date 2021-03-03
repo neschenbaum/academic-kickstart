@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Algorithmic Collusion And Asymmetric Agents"
-authors: ["Nicolas Eschenbaum","Philipp Zahn"]
-date: 2020-10-01T14:32:05+01:00
+title: "Data Moats"
+authors: []
+date: 2021-03-03T16:21:19+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-04T14:32:05+01:00
+publishDate: 2021-03-03T16:21:19+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["learning-games"]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

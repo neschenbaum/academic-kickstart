@@ -52,5 +52,5 @@ subtitle = ""
 
 Industrial Organization and Digitalization (Master). Fall term 2020. 
 
-Microeconomics I (Bachelor.). Fall term 2020.
+Microeconomics I (Bachelor). Fall term 2020.
 

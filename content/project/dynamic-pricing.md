@@ -3,11 +3,11 @@
 
 title: "Pricing in a Digital World"
 subtitle: "Behavior-Based Pricing, Payment Evasion, and Customer Backlash"
-summary: "In the digital world, tracking individual customers is commonplace. This research project provides new insights into optimal pricing when sellers can observe their customers' purchase histories. This project has been funded by the Swiss National Science Foundation (SNSF), grant no. 178836"
-authors: [Stefan Buehler, Nicolas Eschenbaum]
+summary: "In the digital world, tracking individual customers is commonplace. This research project provides new insights into optimal pricing when sellers can observe their customers' purchase histories. This project has been funded by the Swiss National Science Foundation (SNSF), grant no. 178836."
+authors: ["Stefan Buehler", "Nicolas Eschenbaum"]
 tags: []
 categories: []
-date: 2021-03-03T15:31:27+01:00
+date: 2019-01-01T15:31:27+01:00
 lastmod: 2021-03-03T15:31:27+01:00
 featured: false
 draft: false
@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+In the digital world, tracking individual customers is commonplace. This research project provides new insights into optimal pricing when sellers can observe their customers' purchase histories. This project has been funded by the Swiss National Science Foundation (SNSF), grant no. 178836.

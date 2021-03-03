@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "This paper studies dynamic monopoly pricing in a unified analytical framework that allows for multiple durable or rental varieties, as well as other settings. We show that the driving force behind dynamic pricing is the seller’s incentive to trade up consumers to higher-valued consumption options. We derive two key results. First, if there are no trading-up opportunities at static monopoly prices, the seller can do no better than set static monopoly prices and obtain the commitment profit irrespective of commitment ability. Second, if trading-up opportunities exist for any history, the seller engages in dynamic pricing by lowering prices until reaching prices that leave no trading-up opportunities in the static game and will exhaust all trading-up opportunities in finite time if the seller’s static profit is strictly positive at profit-maximizing prices that exhaust all trading-up opportunities."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "pdf/Multiproduct_Dynamic_Pricing.pdf"
+url_pdf: "publication/multiproduct/Multiproduct_Dynamic_Pricing.pdf"
 url_code:
 url_dataset:
 url_poster:
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["dynamic-pricing"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
