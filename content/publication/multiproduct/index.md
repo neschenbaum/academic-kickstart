@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Trading Up: Dynamic Monopoly Pricing With Multiple Varieties"
-authors: ["Stefan Buehler","Nicolas Eschenbaum","Marc Moeller"]
-date: 2020-10-02T14:32:05+01:00
+title: "Dynamic Monopoly Pricing With Multiple Varieties: Trading Up Buyers"
+authors: ["Stefan Buehler","Nicolas Eschenbaum"]
+date: 2021-03-03
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,7 +13,7 @@ publishDate: 2020-10-05T14:32:05+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "pdf/Multiproduct_Dynamic_Pricing.pdf"
 url_code:
 url_dataset:
 url_poster:

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Algorithmic Collusion With Asymmetric Players"
+title: "Algorithmic Collusion And Asymmetric Agents"
 authors: ["Nicolas Eschenbaum","Philipp Zahn"]
 date: 2020-10-01T14:32:05+01:00
 doi: ""

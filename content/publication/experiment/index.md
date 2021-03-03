@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Experimental Evidence on Coasian Dynamics and the Ratchet Efffect"
-authors: ["Stefan Buehler","Nicolas Eschenbaum","Thomas Epper","Roberta Koch"]
+authors: ["Stefan Buehler","Thomas Epper","Nicolas Eschenbaum","Roberta Koch"]
 date: 2020-09-31T14:32:05+01:00
 doi: ""
 
