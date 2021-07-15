@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dynamic Monopoly Pricing With Multiple Varieties: Trading Up Buyers"
+title: "Dynamic Monopoly Pricing With Multiple Varieties: Trading Up"
 authors: ["Stefan Buehler","Nicolas Eschenbaum"]
-date: 2021-03-03
+date: 2021-07-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper studies dynamic monopoly pricing in a unified analytical framework that allows for multiple durable or rental varieties, as well as other settings including positive selection. We show that the driving force behind dynamic pricing is the seller’s incentive to trade up consumers to higher-valued consumption options. We derive two key results. First, if there are no trading-up opportunities at static monopoly prices, the seller can do no better than set static monopoly prices and obtain the commitment profit irrespective of commitment ability. Second, if trading-up opportunities exist for any history, the seller engages in dynamic pricing by lowering prices until reaching prices that leave no trading-up opportunities in the static game and will exhaust all trading-up opportunities in finite time if the seller’s static profit is strictly positive at profit-maximizing prices that exhaust all trading-up opportunities."
+abstract: "This paper studies a broad class of dynamic monopoly pricing problems, including  various  unexplored  settings  (e.g.,  multiple  rental  varieties). We show that the driving force behind pricing dynamics is the seller’s incentive to  trade  up  consumers  to  higher-valued  consumption  options.  In  Coasian settings, consumers can be traded up from the static optimum, and pricing dynamics  arise  until  all  trading-up  opportunities  are  exhausted.  In  Non-Coasian settings, consumers cannot be traded up from the static optimum, and  no  pricing  dynamics  arise.  Hence,  dynamic  monopoly  pricing  can  be characterized  by  checking  for  trading-up  opportunities  in  the  static  optimum."
 
 # Summary. An optional shortened abstract.
 summary: ""
